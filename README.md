@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+# Desafio frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Seja bem-vindo, este desafio faz parte do processo seletivo da Hero99, com o objetivo de avaliarmos o seu domínio em desenvolvimento frontend com React.
 
-## Available Scripts
+Vamos analisar sua organização, as boas práticas com o código, consumo de APIs Restfull, conhecimento da biblioteca e javascript.
 
-In the project directory, you can run:
+## Objetivo
+
+Implementar as funcionalidades do CRUD no frontend disponível nesse repositório, consumindo os recursos de produto a partir da api [DummyJSON](https://dummyjson.com), e também seguindo o design do desafio contido no [figma](https://www.figma.com/file/Z8uDGPfN6ke9pNDluOlcps/Desafio-Hero99?node-id=60%3A9323).
+
+## Requisitos
+
+- Cadastrar um novo produto
+- Editar um produto
+- Excluir um produto
+
+## Diferenciais
+
+- Boa documentação do código
+- Testes do código
+
+## Como participar?
+
+- Código precisa estar disponível em um repositório público do github
+- Enviar email com o link do repositório para email@hero99.com.br
+
+## Comandos disponíveis
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Roda o app em modo de desenvolvimento.
